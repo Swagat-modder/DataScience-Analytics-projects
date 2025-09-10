@@ -1,8 +1,8 @@
-📌 Problem Statement
+## 📌 Problem Statement
 
 ABC Company, an e-commerce platform, needed to verify the accuracy of courier charges billed by their partners. They wanted to compare their internal calculations of order weight and delivery zone with the courier companies' invoices and identify discrepancies in billing amounts.
 
-🛠️ Approach Followed
+## 🛠️ Approach Followed
 
 The analysis was carried out in the following steps:
 
@@ -46,7 +46,7 @@ Calculated the total monetary amounts associated with each category.
 
 Visualized the proportion of orders in each category using a pie chart.
 
-✅ Outcome
+## ✅ Outcome
 
 The analysis provided a clear picture of the billing accuracy of the courier companies.
 
